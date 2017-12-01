@@ -9,11 +9,11 @@ Becuase it will help you grap,
 2. Basic Implementation
 3. Confidence.
 
-#####How much time should i spend?
+##### How much time should i spend?
 
-One Week Maximum.
+Maximum One Week.
 
-#####What if i'm stuck?
+##### What if i'm stuck?
 
 Learn from red coders submissions, but dont copy them
 implement by yourself.
